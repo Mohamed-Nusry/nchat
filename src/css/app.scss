@@ -1,0 +1,13 @@
+// app global css in SCSS form
+
+@font-face {
+    font-family: customfont;
+    src: url(./fonts/IskoolaPotha.ttf);
+}
+  
+
+
+// declare a class which applies it
+.my-font {
+    font-family: 'customfont';
+}
